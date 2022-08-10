@@ -1,0 +1,6 @@
+[book]
+authors = ["N0xMare"]
+language = "en"
+multilingual = false
+src = "src"
+title = "bao-documentation"
