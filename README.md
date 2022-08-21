@@ -11,4 +11,4 @@
 # mdbook
 
 - clone the repo
-- run [mdbook serve --open]() ro view local instant of webpage
+- run [mdbook serve --open](https://rust-lang.github.io/mdBook/guide/creating.html) ro view local instant of webpage
