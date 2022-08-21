@@ -7,3 +7,8 @@
 - The future plans and roadmap for the project.
 
 - Many useful guides to make using Bao protocols simple and easier to learn.
+
+# mdbook
+
+- clone the repo
+- run [mdbook serve --open]() ro view local instant of webpage
