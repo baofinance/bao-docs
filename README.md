@@ -6,14 +6,14 @@ Bao Finance aims to be an open source toolkit that uses existing financial primi
 
 ## Contracts
 
-- [BAO Token (BAO) & Voting Escrow BAO (veBAO)](./01-bao-token.md)
-- [BAO Distribution](./02-bao-distr.md)
-- [Liquidity gauges (token minting)](./03-liq-gauges.md)
-- [Gauge Voting](./04-vote-onchain.md)
-- [Bao Baskets](./06-Baskets.md)
-- [Bao Markets](./07-Markets.md)
-- [Fee Distribution](./08-fee-distr.md)
-- [Contribute](./09-contribute.md)
+- [BAO Token (BAO) & Voting Escrow BAO (veBAO)](./src/01-bao-token.md)
+- [BAO Distribution](./src/02-bao-distr.md)
+- [Liquidity gauges (token minting)](./src/03-liq-gauges.md)
+- [Gauge Voting](./src/04-vote-onchain.md)
+- [Bao Baskets](./src/06-Baskets.md)
+- [Bao Markets](./src/07-Markets.md)
+- [Fee Distribution](./src/08-fee-distr.md)
+- [Contribute](./src/09-contribute.md)
 
 ## Helpful external documents
 
